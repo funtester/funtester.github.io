@@ -1,2 +1,3 @@
-# funtester.github.io
-FunTester's website
+# FunTester
+
+This website is being migrated. Please return soon.
